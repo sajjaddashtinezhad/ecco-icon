@@ -1,0 +1,651 @@
+[
+    {
+      "id": "icon1",
+      "name": "Home",
+      "keywords": ["home", "house", "residence", "building", "shelter", "accommodation", "habitat", "dwelling", "abode", "real estate", "living space", "property", "housing", "roof", "place", "household"],
+      "svg": "/icons/home.svg"
+    },
+    {
+      "id": "icon2",
+      "name": "Playlist",
+      "keywords": ["playlist", "music", "songs", "tracks", "audio", "collection", "queue", "list", "media", "library", "album", "favorites", "mix", "sound", "play", "streaming"],
+      "svg": "/icons/playlist.svg"
+    },
+    {
+      "id": "icon3",
+      "name": "Star",
+      "keywords": ["star", "favorite", "rating", "highlight", "bookmark", "shine", "award", "rank", "symbol", "success", "achievement", "stellar", "important", "feature", "best", "review"],
+      "svg": "/icons/star.svg"
+    },
+    {
+      "id": "icon4",
+      "name": "Upload",
+      "keywords": ["upload", "send", "share", "transfer", "cloud", "data", "arrow", "up", "export", "file", "submit", "save", "online", "digital", "document", "transfer file"],
+      "svg": "/icons/upload.svg"
+    },
+    {
+      "id": "icon5",
+      "name": "Download",
+      "keywords": ["download", "save", "receive", "transfer", "cloud", "data", "arrow", "down", "import", "file", "offline", "document", "retrieve", "get file", "storage"],
+      "svg": "/icons/download.svg"
+    },
+    {
+      "id": "icon6",
+      "name": "Share",
+      "keywords": ["share", "send", "social", "network", "distribute", "connection", "link", "forward", "spread", "communication", "upload", "transfer", "broadcast", "media", "post", "message"],
+      "svg": "/icons/share.svg"
+    },
+    {
+      "id": "icon7",
+      "name": "Arrow Down",
+      "keywords": ["arrow down", "downward", "download", "direction", "navigation", "pointing down", "move down", "scroll", "decline", "drop", "bottom", "decrease", "lower", "descend", "down"],
+      "svg": "/icons/arrow-down.svg"
+    },
+    {
+      "id": "icon8",
+      "name": "Arrow Up",
+      "keywords": ["arrow up", "upward", "upload", "direction", "navigation", "pointing up", "move up", "rise", "increase", "ascend", "top", "elevate", "scroll up", "climb", "up"],
+      "svg": "/icons/arrow-up.svg"
+    },
+    {
+      "id": "icon9",
+      "name": "Arrow Right",
+      "keywords": ["arrow right", "rightward", "direction", "navigation", "pointing right", "move right", "next", "forward", "proceed", "advance", "scroll right", "east", "go right", "continue", "right"],
+      "svg": "/icons/arrow-right.svg"
+    },
+    {
+      "id": "icon10",
+      "name": "Arrow Left",
+      "keywords": ["arrow left", "leftward", "direction", "navigation", "pointing left", "move left", "back", "previous", "rewind", "reverse", "scroll left", "west", "go left", "return", "left"],
+      "svg": "/icons/arrow-left.svg"
+    },
+    {
+      "id": "icon11",
+      "name": "Edit",
+      "keywords": ["edit", "modify", "pencil", "write", "update", "change", "adjust", "revise", "compose", "draft", "customize", "create", "correct", "annotation", "design", "tool"],
+      "svg": "/icons/edit.svg"
+    },
+    {
+      "id": "icon12",
+      "name": "Delete",
+      "keywords": ["delete", "remove", "trash", "bin", "discard", "erase", "clear", "cancel", "dispose", "eliminate", "destroy", "uninstall", "trash can", "wipe", "terminate", "clean up"],
+      "svg": "/icons/delete.svg"
+    },
+    {
+      "id": "icon13",
+      "name": "Close",
+      "keywords": ["close", "cancel", "exit", "x", "dismiss", "remove", "clear", "stop", "end", "quit", "shut", "close window", "close tab", "terminate", "close button", "cross"],
+      "svg": "/icons/close.svg"
+    },
+    {
+      "id": "icon14",
+      "name": "Plus",
+      "keywords": ["plus", "add", "create", "new", "increase", "expand", "more", "addition", "positive", "combine", "insert", "extra", "include", "augment", "sum", "plus sign"],
+      "svg": "/icons/plus.svg"
+    },
+    {
+      "id": "icon15",
+      "name": "Close Circle",
+      "keywords": ["close", "cancel", "exit", "dismiss", "remove", "clear", "stop", "end", "quit", "shut", "close button", "circle", "cross", "terminate", "close in circle", "x in circle"],
+      "svg": "/icons/close-circle.svg"
+    },
+    {
+      "id": "icon16",
+      "name": "Plus Circle",
+      "keywords": ["plus", "add", "create", "new", "increase", "expand", "more", "addition", "positive", "combine", "insert", "extra", "include", "augment", "circle", "plus in circle"],
+      "svg": "/icons/plus-circle.svg"
+    },
+    {
+      "id": "icon17",
+      "name": "Play",
+      "keywords": ["play", "start", "media", "video", "audio", "begin", "start button", "action", "music", "movie", "video player", "launch", "activate", "start playing", "motion"],
+      "svg": "/icons/play.svg"
+    },
+    {
+      "id": "icon18",
+      "name": "Pause",
+      "keywords": ["pause", "stop", "media", "video", "audio", "halt", "break", "interruption", "hold", "suspend", "temporary stop", "media control", "video player", "playback", "delay"],
+      "svg": "/icons/pause.svg"
+    },
+    {
+      "id": "icon19",
+      "name": "Stop",
+      "keywords": ["stop", "halt", "pause", "media", "end", "terminate", "finish", "block", "close", "cancel", "suspend", "video", "audio", "stop button", "cut", "cease"],
+      "svg": "/icons/stop.svg"
+    },
+    {
+      "id": "icon20",
+      "name": "Repeat",
+      "keywords": ["repeat", "loop", "cycle", "redo", "replay", "again", "recurrent", "rotation", "renew", "repetition", "turn", "restart", "refresh", "back", "repetition arrow"],
+      "svg": "/icons/repeat.svg"
+    },
+    {
+      "id": "icon21",
+      "name": "Photo",
+      "keywords": ["photo", "image", "picture", "camera", "photograph", "snapshot", "media", "gallery", "photography", "picture frame", "capture", "visual", "portrait", "photo album", "pic"],
+      "svg": "/icons/photo.svg"
+    },
+    {
+      "id": "icon22",
+      "name": "Heart",
+      "keywords": ["heart", "love", "affection", "like", "favorite", "care", "emotion", "romance", "passion", "love symbol", "warmth", "heart symbol", "adore", "kindness", "romantic"],
+      "svg": "/icons/heart.svg"
+    },
+    {
+      "id": "icon23",
+      "name": "Next Track",
+      "keywords": ["next track", "next", "forward", "skip", "music", "audio", "song", "track", "play", "media", "music player", "advance", "progress", "forward arrow", "playlist"],
+      "svg": "/icons/next-track.svg"
+    },
+    {
+      "id": "icon24",
+      "name": "Previous Track",
+      "keywords": ["previous track", "previous", "back", "rewind", "music", "audio", "song", "track", "play", "media", "music player", "reverse", "backward", "back arrow", "playlist"],
+      "svg": "/icons/previous-track.svg"
+    },
+    {
+      "id": "icon25",
+      "name": "Clock",
+      "keywords": ["clock", "time", "watch", "hour", "minute", "schedule", "alarm", "clock face", "timer", "timepiece", "clock symbol", "second", "reminder", "chronometer", "clock icon"],
+      "svg": "/icons/clock.svg"
+    },
+    {
+      "id": "icon26",
+      "name": "Timer",
+      "keywords": ["timer", "clock", "time", "countdown", "stopwatch", "alarm", "duration", "reminder", "timer icon", "time limit", "measurement", "clock symbol", "interval", "set time", "timing"],
+      "svg": "/icons/timer.svg"
+    },
+    {
+      "id": "icon27",
+      "name": "Zoom",
+      "keywords": ["zoom", "magnify", "in", "out", "search", "enlarge", "focus", "lens", "view", "increase", "expand", "details", "magnifier", "scale", "look"],
+      "svg": "/icons/zoom.svg"
+    },
+    {
+      "id": "icon28",
+      "name": "Eye",
+      "keywords": ["eye", "vision", "see", "look", "view", "watch", "observe", "sight", "focus", "gaze", "eye symbol", "perceive", "visual", "lookout", "stare"],
+      "svg": "/icons/eye.svg"
+    },
+    {
+      "id": "icon29",
+      "name": "Bulb",
+      "keywords": ["bulb", "light", "idea", "lamp", "energy", "electric", "brightness", "innovation", "illumination", "concept", "creative", "thinking", "bright", "solution", "inspiration"],
+      "svg": "/icons/bulb.svg"
+    },
+    {
+      "id": "icon30",
+      "name": "Location",
+      "keywords": ["location", "map", "pin", "place", "position", "destination", "address", "geolocation", "coordinates", "navigation", "spot", "landmark", "gps", "area", "site"],
+      "svg": "/icons/location.svg"
+    },
+    {
+      "id": "icon31",
+      "name": "Lock",
+      "keywords": ["lock", "security", "key", "password", "protect", "privacy", "safe", "unlock", "restricted", "secure", "protection", "safety", "confidential", "access", "locked"],
+      "svg": "/icons/lock.svg"
+    },
+    {
+      "id": "icon32",
+      "name": "Document",
+      "keywords": ["document", "file", "paper", "text", "sheet", "paperwork", "report", "pdf", "write", "note", "form", "document icon", "record", "content", "manual"],
+      "svg": "/icons/document.svg"
+    },
+    {
+      "id": "icon33",
+      "name": "Gift",
+      "keywords": ["gift", "present", "celebration", "box", "surprise", "wrap", "give", "occasion", "birthday", "holiday", "reward", "wrapped", "generosity", "donation", "festivity"],
+      "svg": "/icons/gift.svg"
+    },
+    {
+      "id": "icon34",
+      "name": "Rocket",
+      "keywords": ["rocket", "launch", "space", "flight", "exploration", "science", "mission", "boost", "speed", "travel", "adventure", "innovation", "takeoff", "blastoff", "astronaut"],
+      "svg": "/icons/rocket.svg"
+    },
+    {
+      "id": "icon35",
+      "name": "Camera",
+      "keywords": ["camera", "photography", "photo", "picture", "lens", "snapshot", "capture", "image", "video", "shoot", "record", "film", "photo camera", "device", "portrait"],
+      "svg": "/icons/camera.svg"
+    },
+    {
+      "id": "icon36",
+      "name": "Crown",
+      "keywords": ["crown", "royalty", "king", "queen", "regal", "monarchy", "authority", "symbol", "victory", "honor", "pride", "ruler", "achievement", "prestige", "power"],
+      "svg": "/icons/crown.svg"
+    },
+    {
+      "id": "icon37",
+      "name": "Calendar",
+      "keywords": ["calendar", "date", "schedule", "time", "month", "day", "planner", "agenda", "event", "reminder", "appointment", "timeline", "year", "organization", "schedule icon"],
+      "svg": "/icons/calendar.svg"
+    },
+    {
+      "id": "icon38",
+      "name": "Growth",
+      "keywords": ["growth", "increase", "expand", "progress", "development", "boost", "improvement", "rise", "evolution", "upward", "advance", "flourish", "build", "success", "growth chart"],
+      "svg": "/icons/growth.svg"
+    },
+    {
+      "id": "icon39",
+      "name": "Map",
+      "keywords": ["map", "location", "navigation", "directions", "route", "gps", "guide", "coordinates", "journey", "territory", "area", "place", "travel", "exploration", "path"],
+      "svg": "/icons/map.svg"
+    },
+    {
+      "id": "icon40",
+      "name": "Chat",
+      "keywords": ["chat", "message", "conversation", "talk", "communication", "dialogue", "discussion", "text", "speech", "speech bubble", "contact", "connect", "reply", "social", "exchange"],
+      "svg": "/icons/chat.svg"
+    },
+    {
+      "id": "icon41",
+      "name": "Marketing",
+      "keywords": ["marketing", "advertising", "promotion", "campaign", "strategy", "business", "sales", "growth", "brand", "target", "digital", "social media", "outreach", "publicity", "market", "megaphone"],
+      "svg": "/icons/marketing.svg"
+    },
+    {
+      "id": "icon42",
+      "name": "Phone",
+      "keywords": ["phone", "mobile", "call", "contact", "communication", "telephone", "cell", "device", "talk", "smartphone", "conversation", "dial", "communication device", "receiver", "number"],
+      "svg": "/icons/phone.svg"
+    },
+    {
+      "id": "icon43",
+      "name": "Paper Plane",
+      "keywords": ["paper plane", "airplane", "fly", "send", "message", "email", "communication", "transport", "mail", "delivery", "flight", "movement", "dispatch", "quick", "speed"],
+      "svg": "/icons/paper-plane.svg"
+    },
+    {
+      "id": "icon44",
+      "name": "Like",
+      "keywords": ["like", "thumb up", "approve", "favor", "good", "positive", "agree", "support", "appreciate", "recommend", "thumbs up", "praise", "acknowledge", "best", "cool"],
+      "svg": "/icons/like.svg"
+    },
+    {
+      "id": "icon45",
+      "name": "Graduation",
+      "keywords": ["graduation", "cap", "diploma", "degree", "education", "academic", "school", "student", "success", "achievement", "learn", "study", "graduate", "certificate", "celebration"],
+      "svg": "/icons/graduation.svg"
+    },
+    {
+      "id": "icon46",
+      "name": "Question",
+      "keywords": ["question", "inquiry", "help", "support", "ask", "uncertainty", "query", "doubt", "answer", "information", "curiosity", "problem", "confusion", "faq", "knowledge"],
+      "svg": "/icons/question.svg"
+    },
+    {
+      "id": "icon47",
+      "name": "Security",
+      "keywords": ["security", "protect", "safe", "privacy", "shield", "protection", "safety", "password", "secure", "guard", "cybersecurity", "firewall", "encryption", "access"],
+      "svg": "/icons/security.svg"
+    },
+    {
+      "id": "icon48",
+      "name": "Laptop",
+      "keywords": ["laptop", "computer", "device", "technology", "mobile", "notebook", "portable", "work", "office", "digital", "electronics", "screen", "programming", "workstation", "tech"],
+      "svg": "/icons/laptop.svg"
+    },
+    {
+      "id": "icon49",
+      "name": "Computer",
+      "keywords": ["computer", "desktop", "technology", "pc", "device", "electronics", "screen", "digital", "laptop", "monitor", "workstation", "programming", "tech", "software", "hardware"],
+      "svg": "/icons/computer.svg"
+    },
+    {
+      "id": "icon50",
+      "name": "Web Design",
+      "keywords": ["web design", "design", "website", "UI", "UX", "interface", "user experience", "web development", "layout", "responsive", "HTML", "CSS", "creative", "digital design", "front-end"],
+      "svg": "/icons/web-design.svg"
+    },
+    {
+      "id": "icon51",
+      "name": "Building",
+      "keywords": ["building", "architecture", "structure", "construction", "skyscraper", "house", "office", "facility", "tower", "real estate", "city", "urban", "property", "home", "industry"],
+      "svg": "/icons/building.svg"
+    },
+    {
+      "id": "icon52",
+      "name": "Tree",
+      "keywords": ["tree", "nature", "plant", "green", "leaf", "forest", "wood", "grow", "environment", "outdoors", "ecology", "bush", "shade", "landscape", "vegetation"],
+      "svg": "/icons/tree.svg"
+    },
+    {
+      "id": "icon53",
+      "name": "Shop",
+      "keywords": ["shop", "store", "retail", "shopping", "market", "business", "purchase", "commerce", "sale", "buy", "mall", "goods", "boutique", "storefront", "products"],
+      "svg": "/icons/shop.svg"
+    },
+    {
+      "id": "icon54",
+      "name": "Trolley",
+      "keywords": ["trolley", "cart", "shopping", "store", "carry", "transport", "goods", "shopping cart", "transportation", "move", "deliver", "purchase", "storage", "load", "delivery"],
+      "svg": "/icons/trolley.svg"
+    },
+    {
+      "id": "icon55",
+      "name": "Avatar",
+      "keywords": ["avatar", "user", "profile", "person", "account", "identity", "member", "figure", "character", "image", "portrait", "individual", "social", "account icon", "representation"],
+      "svg": "/icons/avatar.svg"
+    },
+    {
+      "id": "icon56",
+      "name": "Globe",
+      "keywords": ["globe", "world", "earth", "global", "international", "map", "planet", "universe", "geography", "location", "country", "continent", "exploration", "travel", "environment"],
+      "svg": "/icons/globe.svg"
+    },
+    {
+      "id": "icon57",
+      "name": "Check",
+      "keywords": ["check", "tick", "done", "complete", "approval", "confirm", "verified", "correct", "validation", "mark", "success", "accept", "right", "agree", "completion"],
+      "svg": "/icons/check.svg"
+    },
+    {
+      "id": "icon58",
+      "name": "Cog",
+      "keywords": ["cog", "gear", "settings", "mechanism", "tool", "adjust", "control", "configuration", "engineering", "system", "automation", "machine", "work", "options", "customize"],
+      "svg": "/icons/cog.svg"
+    },
+    {
+      "id": "icon59",
+      "name": "Layers",
+      "keywords": ["layers", "stack", "levels", "hierarchy", "organization", "structure", "arrange", "multi-layer", "design", "components", "separate", "group", "layering", "overlap", "build"],
+      "svg": "/icons/layers.svg"
+    },
+    {
+      "id": "icon60",
+      "name": "Cup",
+      "keywords": ["cup", "trophy", "award", "victory", "champion", "success", "prize", "competition", "achievement", "medal", "first place", "recognition", "honor", "winner", "celebration"],
+      "svg": "/icons/cup.svg"
+    },
+    {
+      "id": "icon61",
+      "name": "Video",
+      "keywords": ["video", "film", "movie", "clip", "media", "motion", "footage", "video player", "stream", "record", "play", "screen", "visual", "entertainment", "broadcast"],
+      "svg": "/icons/video.svg"
+    },
+    {
+      "id": "icon62",
+      "name": "Airplane",
+      "keywords": ["airplane", "plane", "flight", "aviation", "aircraft", "travel", "airport", "sky", "jet", "flight path", "takeoff", "flying", "transport", "traveling", "passenger"],
+      "svg": "/icons/airplane.svg"
+    },
+    {
+      "id": "icon63",
+      "name": "Coffee Cup",
+      "keywords": ["coffee cup", "mug", "coffee", "beverage", "drink", "tea", "hot drink", "coffee mug", "morning", "caffeine", "warm", "sip", "ceramic", "brew", "refreshment"],
+      "svg": "/icons/coffee-cup.svg"
+    },
+    {
+      "id": "icon64",
+      "name": "Hourglass",
+      "keywords": ["hourglass", "time", "sand", "clock", "timer", "waiting", "measure", "duration", "past", "future", "countdown", "time management", "timing", "hours", "minutes"],
+      "svg": "/icons/hour-glass.svg"
+    },
+    {
+      "id": "icon65",
+      "name": "Danger",
+      "keywords": ["danger", "warning", "alert", "hazard", "risk", "caution", "unsafe", "emergency", "protection", "safety", "exclamation", "threat", "precaution", "risk icon", "security"],
+      "svg": "/icons/danger.svg"
+    },
+    {
+      "id": "icon66",
+      "name": "Sun",
+      "keywords": ["sun", "shine", "day", "light", "summer", "warmth", "sunlight", "bright", "morning", "sunrise", "star", "energy", "outdoors", "sky", "solar"],
+      "svg": "/icons/sun.svg"
+    },
+    {
+      "id": "icon67",
+      "name": "Bookmark",
+      "keywords": ["bookmark", "save", "favorite", "highlight", "mark", "reading", "link", "reference", "position", "note", "keep", "reminder", "page", "organize", "search"],
+      "svg": "/icons/bookmark.svg"
+    },
+    {
+      "id": "icon68",
+      "name": "Shuffle",
+      "keywords": ["shuffle", "random", "mix", "order", "playlist", "music", "play", "change", "arrange", "select", "variation", "jumbled", "sequence", "rearrange", "track"],
+      "svg": "/icons/shuffle.svg"
+    },
+    {
+      "id": "icon69",
+      "name": "Repeat One",
+      "keywords": ["repeat", "loop", "track", "music", "play", "replay", "single", "song", "endless", "continuous", "repeat one", "song loop", "track loop", "audio", "play again"],
+      "svg": "/icons/repeat-one.svg"
+    },
+    {
+      "id": "icon70",
+      "name": "Menu",
+      "keywords": ["menu", "navigation", "options", "list", "settings", "items", "select", "controls", "open", "toolbar", "interface", "dropdown", "sidebar"],
+      "svg": "/icons/menu.svg"
+    },
+    {
+      "id": "icon71",
+      "name": "Video Camera",
+      "keywords": ["video camera", "record", "film", "video", "camera", "shoot", "capture", "movie", "movie camera", "filming", "camera icon", "motion", "videography", "media", "capture video"],
+      "svg": "/icons/video-camera.svg"
+    },
+    {
+      "id": "icon72",
+      "name": "Goal",
+      "keywords": ["goal", "flag", "mountain", "achievement", "success", "victory", "target", "win", "summit", "accomplishment", "milestone", "objective", "finish line", "climb", "reward"],
+      "svg": "/icons/goal.svg"
+    },
+    {
+      "id": "icon73",
+      "name": "Sound On",
+      "keywords": ["sound on", "volume", "audio", "unmute", "sound", "music", "play", "speaker", "loud", "audio on", "sound icon", "increase volume", "playback", "noise", "hear"],
+      "svg": "/icons/sound-on.svg"
+    },
+    {
+      "id": "icon74",
+      "name": "Password",
+      "keywords": ["password", "lock", "security", "login", "authentication", "key", "access", "protect", "credentials", "privacy", "secure", "safety", "login icon", "encrypted", "account"],
+      "svg": "/icons/password.svg"
+    },
+    {
+      "id": "icon75",
+      "name": "HTML",
+      "keywords": ["HTML", "code", "web", "markup", "language", "development", "website", "programming", "web design", "front-end", "HTML5", "tags", "structure", "content", "web development"],
+      "svg": "/icons/html.svg"
+    },
+    {
+      "id": "icon76",
+      "name": "Folder",
+      "keywords": ["folder", "directory", "files", "organize", "storage", "documents", "file system", "archive", "data", "folder icon", "organization", "file management", "system", "storage container"],
+      "svg": "/icons/folder.svg"
+    },
+    {
+      "id": "icon77",
+      "name": "Box",
+      "keywords": ["box", "container", "storage", "package", "carton", "ship", "parcel", "bundle", "delivery", "crate", "organized", "inventory", "product", "shipping", "storage box"],
+      "svg": "/icons/box.svg"
+    },
+    {
+      "id": "icon78",
+      "name": "Bank",
+      "keywords": ["bank", "finance", "money", "institution", "building", "economy", "account", "loan", "business", "investment", "currency", "deposit", "ATM", "financial", "transaction"],
+      "svg": "/icons/bank.svg"
+    },
+    {
+      "id": "icon79",
+      "name": "QR Code",
+      "keywords": ["QR code", "scan", "barcode", "scan me", "data", "technology", "information", "digital", "code", "quick response", "link", "mobile", "smartphone", "access", "e-commerce"],
+      "svg": "/icons/qr-code.svg"
+    },
+    {
+      "id": "icon80",
+      "name": "Electricity",
+      "keywords": ["electricity", "power", "energy", "electric", "wire", "current", "lightning", "electrical", "charge", "plug", "battery", "circuit", "volt", "electric power", "supply"],
+      "svg": "/icons/electricity.svg"
+    },
+    {
+      "id": "icon81",
+      "name": "Clipboard",
+      "keywords": ["clipboard", "note", "document", "record", "file", "task", "checklist", "paper", "notes", "organization", "reminder", "schedule", "list", "office", "clipboard icon"],
+      "svg": "/icons/clipboard.svg"
+    },
+    {
+      "id": "icon82",
+      "name": "Setting",
+      "keywords": ["setting", "gear", "tools", "adjust", "configuration", "preferences", "options", "preferences", "control", "customize", "setup", "system", "modify", "preferences icon", "management"],
+      "svg": "/icons/setting.svg"
+    },
+    {
+      "id": "icon83",
+      "name": "Credit Card",
+      "keywords": ["credit card", "payment", "banking", "finance", "card", "transaction", "shopping", "purchase", "debit", "money", "account", "finance management", "buy", "plastic card", "credit"],
+      "svg": "/icons/credit-card.svg"
+    },
+    {
+      "id": "icon84",
+      "name": "Compass",
+      "keywords": ["compass", "direction", "navigation", "travel", "map", "orientation", "locate", "exploration", "guide", "north", "south", "east", "west", "location", "navigation tool"],
+      "svg": "/icons/compass.svg"
+    },
+    {
+      "id": "icon85",
+      "name": "Ticket",
+      "keywords": ["ticket", "admission", "pass", "entry", "event", "access", "reservation", "stub", "movie", "concert", "theater", "travel", "voucher", "entry pass", "boarding pass"],
+      "svg": "/icons/ticket.svg"
+    },
+    {
+      "id": "icon86",
+      "name": "Sound Off",
+      "keywords": ["sound off", "mute", "volume", "audio", "silence", "quiet", "speaker", "audio off", "mute icon", "no sound", "no volume", "turn off", "music off", "sound control"],
+      "svg": "/icons/sound-off.svg"
+    },
+    {
+      "id": "icon87",
+      "name": "Translation",
+      "keywords": ["translation", "language", "translate", "text", "interpret", "convert", "multilingual", "dictionary", "foreign", "communication", "global", "languages", "globalization", "interpretation", "speech"],
+      "svg": "/icons/translation.svg"
+    },
+    {
+      "id": "icon88",
+      "name": "Boat",
+      "keywords": ["boat", "ship", "water", "sailing", "navigation", "transport", "maritime", "ocean", "travel", "sea", "marine", "cruise", "vessel", "river", "ferry"],
+      "svg": "/icons/boat.svg"
+    },
+    {
+      "id": "icon89",
+      "name": "Pencil",
+      "keywords": ["pencil", "writing", "drawing", "sketch", "edit", "design", "create", "art", "draft", "scribble", "marker", "notebook", "school", "note", "write"],
+      "svg": "/icons/pencil.svg"
+    },
+    {
+      "id": "icon90",
+      "name": "Vector",
+      "keywords": ["vector", "graphic", "illustration", "design", "art", "shape", "scalable", "SVG", "geometry", "lines", "digital", "image", "vector graphics", "artwork", "path"],
+      "svg": "/icons/vector.svg"
+    },
+    {
+      "id": "icon91",
+      "name": "Animation",
+      "keywords": ["animation", "motion", "cartoon", "video", "sequence", "movement", "frame", "GIF", "2D", "3D", "design", "dynamic", "effects", "transition", "visual"],
+      "svg": "/icons/animation.svg"
+    },
+    {
+      "id": "icon92",
+      "name": "Color",
+      "keywords": ["color", "palette", "shade", "hue", "paint", "spectrum", "swatch", "design", "customize", "color wheel", "tint", "mix", "paintbrush", "style", "visual"],
+      "svg": "/icons/color.svg"
+    },
+    {
+      "id": "icon93",
+      "name": "Battery",
+      "keywords": ["battery", "power", "charge", "energy", "charging", "electric", "level", "full", "empty", "device", "voltage", "portable", "electrical", "mobile", "energy icon"],
+      "svg": "/icons/battery.svg"
+    },
+    {
+      "id": "icon94",
+      "name": "Voice",
+      "keywords": ["voice", "microphone", "sound", "audio", "speak", "record", "speech", "talk", "communication", "voice control", "dictation", "audio input", "speak out", "talking", "voice message"],
+      "svg": "/icons/voice.svg"
+    },
+    {
+      "id": "icon95",
+      "name": "Link",
+      "keywords": ["link", "url", "connection", "website", "hyperlink", "web", "address", "navigate", "web link", "redirect", "shortcut", "reference", "chain", "connect", "chain link"],
+      "svg": "/icons/link.svg"
+    },
+    {
+      "id": "icon96",
+      "name": "Bitcoin",
+      "keywords": ["Bitcoin", "BTC", "cryptocurrency", "blockchain", "decentralized", "digital currency", "web3", "smart contracts", "decentralized finance", "DeFi", "NFT", "token", "wallet", "mining", "peer-to-peer", "ledger", "consensus", "proof of work", "PoW", "satoshi", "halving", "private key", "public key", "exchange", "crypto", "dApp", "metaverse", "interoperability", "oracle", "staking", "layer 2", "scalability", "immutable", "trustless", "permissionless"],
+      "svg": "/icons/bitcoin.svg"
+    },
+    {
+      "id": "icon97",
+      "name": "Ethereum",
+      "keywords": ["Ethereum", "ETH", "cryptocurrency", "blockchain", "smart contracts", "web3", "decentralized", "decentralized finance", "DeFi", "NFT", "token", "wallet", "gas fee", "proof of stake", "PoS", "Ethereum 2.0", "dApp", "decentralized application", "oracle", "staking", "layer 2", "scalability", "interoperability", "metaverse", "immutable", "trustless", "permissionless", "ERC-20", "ERC-721", "sharding", "validator", "consensus", "crypto", "exchange", "private key", "public key"],
+      "svg": "/icons/ethereum.svg"
+    },
+    {
+      "id": "icon98",
+      "name": "Blockchain",
+      "keywords": ["Blockchain", "distributed ledger", "decentralized", "cryptocurrency", "web3", "smart contracts", "consensus", "proof of work", "PoW", "proof of stake", "PoS", "immutable", "transparency", "security", "nodes", "mining", "staking", "token", "NFT", "decentralized finance", "DeFi", "dApp", "interoperability", "scalability", "layer 2", "private key", "public key", "wallet", "exchange", "trustless", "permissionless", "oracle", "metaverse", "crypto", "hash", "genesis block", "fork", "sharding"],
+      "svg": "/icons/blockchain.svg"
+    },
+    {
+      "id": "icon99",
+      "name": "Decentralized",
+      "keywords": ["decentralized", "decentralization", "blockchain", "web3", "distributed ledger", "peer-to-peer", "cryptocurrency", "smart contracts", "decentralized finance", "DeFi", "NFT", "dApp", "decentralized application", "nodes", "consensus", "trustless", "permissionless", "immutable", "transparency", "autonomy", "governance", "token", "wallet", "staking", "mining", "interoperability", "scalability", "layer 2", "oracle", "metaverse", "crypto", "private key", "public key", "exchange", "hash", "fork"],
+      "svg": "/icons/decentralized.svg"
+    },
+    {
+      "id": "icon100",
+      "name": "Wallet",
+      "keywords": ["wallet", "crypto wallet", "blockchain wallet", "web3 wallet", "digital wallet", "private key", "public key", "seed phrase", "recovery phrase", "cold wallet", "hot wallet", "hardware wallet", "software wallet", "mobile wallet", "desktop wallet", "browser wallet", "non-custodial wallet", "custodial wallet", "multi-signature wallet", "DeFi wallet", "NFT wallet", "token storage", "wallet address", "wallet security", "wallet integration", "wallet connectivity", "wallet provider", "wallet backup", "wallet recovery", "wallet encryption", "wallet interoperability", "wallet app", "wallet management", "wallet balance", "wallet transaction"],
+      "svg": "/icons/wallet.svg"
+    },
+    {
+      "id": "icon101",
+      "name": "Smart Contract",
+      "keywords": ["smart contract", "blockchain", "web3", "decentralized", "Ethereum", "solidity", "dApp", "decentralized application", "automation", "self-executing", "code", "programmable", "trustless", "immutable", "transparency", "DeFi", "decentralized finance", "NFT", "token", "oracle", "consensus", "gas fee", "execution", "validation", "audit", "security", "interoperability", "scalability", "layer 2", "metaverse", "crypto", "wallet integration", "transaction", "contract address", "blockchain protocol"],
+      "svg": "/icons/smart-contract.svg"
+    },
+    {
+      "id": "icon102",
+      "name": "NFT",
+      "keywords": ["NFT", "non-fungible token", "blockchain", "web3", "digital art", "collectibles", "ownership", "metadata", "smart contract", "Ethereum", "ERC-721", "ERC-1155", "marketplace", "crypto art", "tokenization", "decentralized", "wallet", "wallet integration", "minting", "gas fee", "rarity", "provenance", "interoperability", "scalability", "metaverse", "virtual assets", "gaming", "DeFi", "decentralized finance", "royalties", "auction", "bid", "creator economy", "digital ownership", "immutable", "transparency", "crypto", "wallet address", "transaction"],
+      "svg": "/icons/nft.svg"
+    },
+    {
+      "id": "icon103",
+      "name": "Biometric",
+      "keywords": ["biometric", "biometrics", "fingerprint", "facial recognition", "iris scan", "voice recognition", "authentication", "security", "identity verification", "biometric data", "biometric system", "biometric technology", "biometric sensor", "biometric device", "biometric authentication", "biometric identification", "biometric access", "biometric scanner", "biometric software", "biometric hardware", "biometric encryption", "biometric privacy", "biometric security", "biometric template", "multimodal biometrics", "behavioral biometrics", "physiological biometrics", "biometric integration", "biometric algorithm", "biometric standards", "biometric accuracy", "biometric enrollment", "biometric matching", "biometric verification", "web3", "decentralized identity", "blockchain authentication", "self-sovereign identity", "crypto security", "wallet integration", "smart contract", "trustless systems", "permissionless access"],
+      "svg": "/icons/biometric.svg"
+    },
+    {
+      "id": "icon104",
+      "name": "Gas Fee",
+      "keywords": ["gas fee", "transaction fee", "blockchain fee", "web3 fee", "network fee", "Ethereum gas", "crypto fee", "miner fee", "gas limit", "gas price", "fuel fee", "blockchain cost", "smart contract fee", "DeFi fee", "NFT fee", "wallet fee", "gas optimization", "gas calculation", "gas tracker", "gas war", "fee market", "priority fee", "base fee", "gas refund", "gas efficiency", "web3 transaction", "blockchain network", "crypto transaction", "fee structure", "gas economy", "gas token", "fee estimation", "fee adjustment", "fee reduction", "fee management"],
+      "svg": "/icons/gas-fee.svg"
+    },
+    {
+      "id": "icon105",
+      "name": "DID",
+      "keywords": ["decentralized identifier", "DID", "web3", "blockchain", "self-sovereign identity", "SSI", "identity verification", "decentralized identity", "digital identity", "verifiable credentials", "identity management", "DID method", "DID document", "public key", "private key", "cryptographic keys", "trustless systems", "permissionless access", "interoperability", "privacy", "security", "authentication", "decentralized authentication", "identity wallet", "blockchain-based identity", "identity protocol", "DID resolver", "DID registry", "immutable identity", "user-controlled identity", "peer-to-peer identity", "identity framework", "identity standards", "W3C DID", "decentralized ecosystem", "crypto identity", "web3 identity"],
+      "svg": "/icons/did.svg"
+    },
+    {
+      "id": "icon106",
+      "name": "DEX",
+      "keywords": ["DEX", "decentralized exchange", "web3 exchange", "crypto exchange", "blockchain trading", "peer-to-peer trading", "token swap", "liquidity pool", "automated market maker", "AMM", "DeFi exchange", "web3 trading", "crypto trading", "wallet integration", "smart contract exchange", "non-custodial exchange", "permissionless trading", "trustless trading", "token pair", "trading fee", "slippage", "price impact", "yield farming", "staking", "liquidity provider", "LP token", "interoperability", "cross-chain trading", "order book", "decentralized finance", "crypto wallet", "token exchange", "web3 platform", "blockchain protocol", "crypto liquidity", "decentralized ecosystem"],
+      "svg": "/icons/dex.svg"
+    },
+    {
+      "id": "icon107",
+      "name": "CEX",
+      "keywords": ["CEX", "centralized exchange", "crypto exchange", "web3 trading", "blockchain trading", "fiat on-ramp", "trading platform", "order book", "liquidity", "trading fee", "crypto trading", "wallet integration", "custodial exchange", "KYC", "AML", "crypto wallet", "token listing", "market maker", "trading pairs", "crypto liquidity", "exchange security", "user interface", "trading tools", "web3 ecosystem", "blockchain integration", "crypto market", "exchange token", "trading volume", "withdrawal fee", "deposit fee", "API integration", "crypto regulations", "exchange compliance", "centralized finance", "CeFi", "crypto assets", "exchange platform", "trading experience"],
+      "svg": "/icons/cex.svg"
+    },
+    {
+      "id": "icon108",
+      "name": "Notification",
+      "keywords": ["notification", "bell icon", "alert", "reminder", "notification bell", "push notification", "notification center", "notification alert", "notification sound", "notification badge", "notification settings", "notification management", "notification system", "notification popup", "notification bell icon", "notification design", "notification animation", "notification UI", "notification UX", "notification indicator", "notification bell sound", "notification bell animation", "notification bell badge", "notification bell alert", "notification bell reminder", "notification bell design", "notification bell style", "notification bell interface", "notification bell system", "notification bell popup", "notification bell management", "notification bell settings", "notification bell sound effect", "notification bell visual", "notification bell interaction"],
+      "svg": "/icons/notification.svg"
+    }
+  ]
+  
