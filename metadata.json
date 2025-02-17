@@ -721,15 +721,16 @@
     },
     {
       "id": "icon121",
-      "name": "Exit",
-      "keywords": ["exit", "exit icon", "close", "leave", "exit app", "exit design", "exit UI", "exit UX", "exit interface", "exit system", "exit animation", "exit visual", "exit interaction", "exit badge", "exit alert", "exit reminder", "exit settings", "exit management", "exit popup", "exit style", "exit sound", "exit effect", "exit indicator", "exit tool", "exit feature", "exit element", "exit action", "exit function", "logout", "sign out", "quit"],
-      "svg": "/icons/exit.svg"
-    },
-    {
-      "id": "icon122",
       "name": "Justify",
       "keywords": ["justify", "justify icon", "text justify", "align justify", "justify alignment", "justify design", "justify UI", "justify UX", "justify interface", "justify system", "justify animation", "justify visual", "justify interaction", "justify badge", "justify alert", "justify reminder", "justify settings", "justify management", "justify popup", "justify style", "justify sound", "justify effect", "justify indicator", "justify tool", "justify feature", "justify element", "justify action", "justify function", "text alignment", "full justify"],
       "svg": "/icons/justify.svg"
+    },
+    {
+      "id": "icon122",
+      "name": "Exit",
+      "keywords": ["exit", "exit icon", "close", "leave", "exit app", "exit design", "exit UI", "exit UX", "exit interface", "exit system", "exit animation", "exit visual", "exit interaction", "exit badge", "exit alert", "exit reminder", "exit settings", "exit management", "exit popup", "exit style", "exit sound", "exit effect", "exit indicator", "exit tool", "exit feature", "exit element", "exit action", "exit function", "logout", "sign out", "quit"],
+      "svg": "/icons/exit.svg"
     }
+
   ]
   
