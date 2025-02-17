@@ -67,9 +67,9 @@
     },
     {
       "id": "icon12",
-      "name": "Delete",
+      "name": "Remove",
       "keywords": ["delete", "remove", "trash", "bin", "discard", "erase", "clear", "cancel", "dispose", "eliminate", "destroy", "uninstall", "trash can", "wipe", "terminate", "clean up"],
-      "svg": "/icons/delete.svg"
+      "svg": "/icons/remove.svg"
     },
     {
       "id": "icon13",
